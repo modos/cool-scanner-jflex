@@ -1,12 +1,16 @@
-# Cool Language Jflex Scanner
-A scanner with jflex for compiler course in Fall 2021 at Shahid Beheshti university.
+## Cool Language Jflex Scanner
+A scanner with jflex for compiler course in Fall 2021 at Shahid Beheshti university. <br>
+This is Phase 1. <br>
 
-## Screenshot
+See [Phase 2](https://github.com/modos/cool-parser).
+
+
+### Screenshot
 <hr>
 
 ![Cool Language Jflex Scanner](screenshot.png)
 
-## How To Run
+### How To Run
 <hr>
 
 Based on your IDE (Vs Code, Intellij and etc...) and your operating system (windows,linux,...), add libraries jar files in the project classpath.
