@@ -2,7 +2,7 @@
 A scanner with jflex for compiler course in Fall 2021 at Shahid Beheshti university. <br>
 This is Phase 1. <br>
 
-See [Phase 2](https://github.com/modos/cool-parser).
+see [Phase 2](https://github.com/modos/cool-parser).
 
 
 ### Screenshot
